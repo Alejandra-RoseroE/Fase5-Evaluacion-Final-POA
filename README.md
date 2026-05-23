@@ -1,13 +1,12 @@
-# Fase5-Evaluacion-Final-POA
-Repositorio para la sustentación de la Fase 5 - Evaluación Final POA del curso Fundamentos de Programación (UNAD). Solución al Problema 2 Python
-# 🚀 Fase 5 - Evaluación Final POA
+
+# Fase 5 - Evaluación Final POA
 
 **Curso:** Fundamentos de Programación  
 **Universidad Nacional Abierta y a Distancia (UNAD)** **Escuela de Ciencias Básicas, Tecnología e Ingeniería (ECBTI)**
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 * **Nombre:** Alejandra Elizabeth Rosero Estrada
 * **Grupo:** 494
 * **Programa:** Ingeniería de Telecomunicaciones
